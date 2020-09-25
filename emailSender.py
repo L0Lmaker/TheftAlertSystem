@@ -13,7 +13,7 @@ def sendEmail():
     os.system("sudo fswebcam -r 300x200 image.jpeg")
     
     email = 'stayawaythieves@gmail.com'
-    password = 'stayawaythieves.123'
+    password = 'hahayoutried'
     send_to_email = 'stayawaythieves@gmail.com'
     subject = 'THIEF DETECTED'
     message = 'Potential Thief has tried to open your box!'
